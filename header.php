@@ -20,6 +20,11 @@
               <li><a href="#"></a>About me</li>
               <li><a href="#"></a>Contact</li>
           </ul>
+          <div>
+              <form action="includes/login.inc.php" method="POST">
+               
+              </form>
+          </div>
        </nav>
 
     </header>
