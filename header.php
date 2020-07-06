@@ -22,8 +22,11 @@
           </ul>
           <div>
               <form action="includes/login.inc.php" method="POST">
-               
-              </form>
+               <input type="text" name="mailuid" placeholder="username/E-mail...">
+               <input type="password" name="pwd" placeholder="password..">
+               <button type="submit" name="login-submit">Login</button>
+              
+            </form>
           </div>
        </nav>
 
