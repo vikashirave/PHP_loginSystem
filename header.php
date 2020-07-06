@@ -11,7 +11,15 @@
         
     <header>
        <nav>
-          
+          <a href="#">
+              <img src="img/logo.png" alt="logo">
+          </a>
+          <ul>
+              <li><a href="index.php"></a>Home</li>
+              <li><a href="#"></a>Portfolio</li>
+              <li><a href="#"></a>About me</li>
+              <li><a href="#"></a>Contact</li>
+          </ul>
        </nav>
 
     </header>
