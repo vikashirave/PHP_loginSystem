@@ -27,7 +27,11 @@
                <button type="submit" name="login-submit">Login</button>
               
             </form>
-          </div>
+            <a href="signup.php">SignUp</a>
+            <form action="includes/logout.in.php" method="POST">
+             <button type="submit" name="logout-submit">Logout</button>
+             </form>
+          </div> 
        </nav>
 
     </header>
